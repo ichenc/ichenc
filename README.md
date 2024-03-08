@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- [🥇我的主页](https://ichen.ink)
+- [🥇我的主页](https://ichen.vip)
 - [👨‍💻我的GitHub](https://github.com/ichenc)
-- [✨每日壁纸](https://bing.ichen.ink/)
+- [✨每日壁纸](https://bing.ichen.vip/)
 
 
 ## 拾穗
