@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋,I'm Chen.
 
 - [🥇我的主页](https://ichen.vip)
 - [😋我的Blog](https://bg.ichen.vip)
@@ -11,6 +11,10 @@
 
 ## 拾穗
   不驰于空想,不骛于虚声。
+  
+你是我的第![Visitor Count](https://profile-counter.glitch.me/ichenc/count.svg)个访客！
 
 | <a href="https://github.com/ichenc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ichenc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="ichenc" /></a> | <a href="https://github.com/ichenc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichenc&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+
