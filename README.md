@@ -10,5 +10,3 @@
 你是我的第![Visitor Count](https://profile-counter.glitch.me/ichenc/count.svg)个访客！
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=go+for+it+!+just+do+it+!)](https://git.io/typing-svg)
-
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
