@@ -1,20 +1,14 @@
-### Hi there 👋,I'm Chen.
+### Hi, I'm Chen.
 
+- [😋我的Blog](https://blog-lake-nine-74.vercel.app/)
 - [🥇我的主页](https://ichen.vip)
-- [😋我的Blog](https://bg.ichen.vip)
-- [😉自用插件](https://ichen.vip/-/)
 - [✨每日壁纸](https://bing.ichen.vip/)
-- [🙈我的图床](https://img.ichenc.xyz/)
-- [👨‍💻我的GitHub](https://github.com/ichenc)
-
-
 
 ## 拾穗
   不驰于空想,不骛于虚声。
-  
+
 你是我的第![Visitor Count](https://profile-counter.glitch.me/ichenc/count.svg)个访客！
 
-| <a href="https://github.com/ichenc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ichenc&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&locale=cn" alt="ichenc" /></a> | <a href="https://github.com/ichenc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichenc&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=go+for+it+!+just+do+it+!)](https://git.io/typing-svg)
+
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-
-
