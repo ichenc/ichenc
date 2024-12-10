@@ -1,8 +1,8 @@
 ### Hi, I'm Chen.
 
-- [😋我的Blog](https://blog-lake-nine-74.vercel.app/)
-- [🥇我的主页](https://ichen.vip)
-- [✨每日壁纸](https://bing.ichen.vip/)
+- [😋我的Blog](https://blog.212001.xyz/)
+- [🥇我的主页](https://212001.xyz/)
+- [✨每日壁纸](https://bing.212001.xyz/)
 
 ## 拾穗
   不驰于空想,不骛于虚声。
