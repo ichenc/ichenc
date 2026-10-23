@@ -11,7 +11,8 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=3000&pause=1000&width=600&height=50&lines=你好呀,+很高兴见到你!;不驰于空想,+不骛于虚声;正在折腾下一个有意思的项目...;Go+for+it!+Just+do+it+!" alt="Typing SVG" />
+  <b>你好呀，很高兴见到你！</b><br>
+  <i>不驰于空想，不骛于虚声。</i>
 </p>
 
 ---
@@ -26,10 +27,13 @@ brand: "晨华电脑"
 ```
 
 - 🔧  **日常折腾**：Windows 批量运维、NAS 网络架构、Docker 部署、ESP32 硬件开发
+- 🎮  **线下业务**：运营约 20 台主机的 PUBG 游戏工作室，拓展电脑回收与硬件维修
 - 🛠️  **技术栈爱好**：Bat 脚本 / Python / 一点前端 / 3D 打印 / 智能家居改造
 - 📦  **搞过的项目**：
   - 🎬 阿晨算法解析系统（影视解析工具）
+  - 📺 DNS 过滤器 C3AdBlock（去广告）
   - 🎮 Lancache / AList / 飞牛 NAS 服务搭建
+  - 📡 ESP32 停电报警 / 旧手机改监控
   - 🖨️ 3D 打印各种奇奇怪怪的支架
 - 🎯  **座右铭**：不驰于空想，不骛于虚声。
 
@@ -66,19 +70,6 @@ brand: "晨华电脑"
 
 ---
 
-### 📊 GitHub 统计
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ichenc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ichenc&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ichenc&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
 ### 🌐 更多链接
 
 <p align="center">
@@ -91,7 +82,7 @@ brand: "晨华电脑"
 ---
 
 <p align="center">
-  你是我的第 <img src="https://profile-counter.glitch.me/ichenc/count.svg" /> 位访客 👀
+  欢迎来访 👋 觉得不错的话可以点个 Star 哦！
 </p>
 
 <p align="center">
